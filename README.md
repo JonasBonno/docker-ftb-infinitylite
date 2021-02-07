@@ -7,7 +7,7 @@ Infinity Lite is a mix of Tech and Magic mods compiled into a medium sized mod
 A minimum of 4 GB of RAM is recommend for clients as well as servers for best performance.
 Fastcraft is enabled in this pack by default.
 
-<img src="http://media-elerium.cursecdn.com/avatars/54/737/636137851254751600.png" width="256" height="256">
+<img src="https://web.archive.org/web/20190313001831if_/https://media.forgecdn.net/avatars/54/737/636137851254751600.png" width="256" height="256">
 
 NOTE: In compliance with Mojang "End User License Agreement", you will need to agree to the EULA in order to run your own Minecraft server. By using this container you acknowledge the EULA! If you do not agree, then you are not permitted to use this container!
 https://account.mojang.com/documents/minecraft_eula
